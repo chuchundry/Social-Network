@@ -2,7 +2,8 @@ import React from "react";
 
 const Body = () => {
     return (
-        <div className="Body"></div>
+        <div className="Body"> 
+        hello</div>
     )
 }
 
